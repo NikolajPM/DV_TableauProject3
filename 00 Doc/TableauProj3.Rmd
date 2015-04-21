@@ -1,0 +1,12 @@
+Tableau Project 3
+====
+**Group members: Fabiana Latorre, Oliver Benton Javier, Ernesto Canales, and Nikolaj Plagborg-Moller.**  
+
+Our dataset can be found at []
+
+  
+```{r}
+source('../01 SQL Crosstabs/Fetching_data.R', echo=TRUE)
+```
+
+![Rank & Max_Diff](../Rank_and_Max_Diff.png)
